@@ -4,7 +4,7 @@
 This feature requires the Email plugin (installed by default).
 :::
 
-Thanks to the plugin `Email`, you can send email on your server or externals providers such as Sendgrid.
+Thanks to the plugin `Email`, you can send email on your server or external providers such as Sendgrid.
 
 ## Usage
 
@@ -32,7 +32,7 @@ $ npm install strapi-provider-email-sendgrid@alpha --save
 ```
 
 ::: note
-If the provider is not in the mono repo, you probably not need `@alpha` depending if the creator published it with this tag or not.
+If the provider is not in the mono repo, you probably don't need `@alpha` depending if the creator published it with this tag or not.
 :::
 
 Then, visit `/admin/plugins/email/configurations/development` on your web browser and configure the provider.
